@@ -16,57 +16,37 @@
 
 **F-53** - registrar pagos manuales a proveedores.
 
-
-
-
-
-
-
 Ordenes de compra:
 
-	**ME21N:** Crear pedidos de compra
+**ME21N:** Crear pedidos de compra
 
-	**ME23N:** Visualizar órdenes de compra
-
-
+**ME23N:** Visualizar órdenes de compra
 
 Recepción de mercancía:
 
-	**MIGO_GR:** Registrar la recepción de mercancías
-
-
+**MIGO_GR:** Registrar la recepción de mercancías
 
 Facturación:
 
-	**MIRO:** Procesar facturas de proveedores
-
-
+**MIRO:** Procesar facturas de proveedores
 
 Contabilidad:
 
-	**FB50:** Registrar manualmente asientos de diario en las cuentas de mayor de la empresa
+**FB50:** Registrar manualmente asientos de diario en las cuentas de mayor de la empresa
 
-	**FB03:** Visualizar documentos contables que ya se han registrado en el sistema
-
-
+**FB03:** Visualizar documentos contables que ya se han registrado en el sistema
 
 Inventario:
 
-	**MMBE:** Visualizar el stock de materiales en un almacén específico
+**MMBE:** Visualizar el stock de materiales en un almacén específico
 
-	**MM03:** Visualizar los datos maestros de materiales
-
-
+**MM03:** Visualizar los datos maestros de materiales
 
 Pagos:
 
-	**F-53:** Registrar pagos manuales a proveedores
-
-
+**F-53:** Registrar pagos manuales a proveedores
 
 ### Paso a Paso en FB50
-
-
 
 1. **Navegar a la transacción FB50:**
 
