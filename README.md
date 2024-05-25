@@ -1,6 +1,17 @@
+
+## FI
+
+**FS00** - Visualizar Cuenta
+
+**FAGLB03** - Visualizar Balance
+
 **FB50** - registrar manualmente asientos de diario en las cuentas de mayor de la empresa.
 
 **FB03** - visualizar documentos contables que ya se han registrado en el sistema.
+
+**F-53** - registrar pagos manuales a proveedores.
+
+## MM
 
 **MMBE** - visualizar el stock de materiales en un almacén específico.
 
@@ -14,11 +25,11 @@
 
 **MIRO** - procesar facturas de proveedores.
 
-**F-53** - registrar pagos manuales a proveedores.
-
 Ordenes de compra:
 
-**ME21N:** Crear pedidos de compra
+**ME21N:** Crear pedidos de compra (2)
+
+**ME51N:** Crear requision de compra (1)
 
 **ME23N:** Visualizar órdenes de compra
 
@@ -41,6 +52,8 @@ Inventario:
 **MMBE:** Visualizar el stock de materiales en un almacén específico
 
 **MM03:** Visualizar los datos maestros de materiales
+
+**MMH1:** Crear material
 
 Pagos:
 
